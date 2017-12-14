@@ -21,7 +21,12 @@ print "\n[CIE BERHASIL LOGIN]"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpmsg ="""╠═════════════════
+helpmsg ="""
+┏━━ೋ• ❄ •ೋ━━━┓
+   ❁ mᎯᎦi'ᎿᎯ ᎦᏋlᎰᏰᏫᎿ❁
+┗━━ೋ• ❄ •ೋ━━━┛
+
+╠═════════════════
 ╠-> google (text)
 ╠-> playstore (text)
 ╠-> instagram (username)
@@ -878,7 +883,7 @@ def bot(op):
                 cl.sendMessage(msg)
             elif cms(msg.text,["creator","Creator"]):
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': "ub14f769cdf42d8c8a618ebe91ac2c8c7"}
+                msg.contentMetadata = {'mid': "u7e96d3b3f5b37ccffbebd18aa343e5f3"}
                 cl.sendMessage(msg)
             elif msg.text.lower() == 'autoadd on':
                 if wait["autoAdd"] == True:
