@@ -1,8 +1,8 @@
-# PUY BOT
+# kep bot
 
-Supported By ObelixBOT
+Supported By Masita'bot
 
 
-git clone https://github.com/mkhadaffy/Mpuy
-cd Mpuy
-python puyself.py
+git clone https://github.com/dhifa/linebot
+cd ;inebot
+python self.py
