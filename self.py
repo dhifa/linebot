@@ -53,7 +53,7 @@ helpmsg ="""
 ╠-> Friendlist
 ╠-> id@en
 ╠-> en@id
-╠-> id@jp\n                 「OR」\n╠-> helppro\n╠-> helpself\n╠-> helpset\n╠-> helpgrup\n╠-> helptranslate
+╠-> id@jp\n                 「OR」\n╠-> help protection\n╠-> help self\n╠-> help set\n╠-> help grup\n╠-> help translate
 ╚═════════════════"""
 
 helppro ="""
